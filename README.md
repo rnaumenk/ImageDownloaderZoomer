@@ -1,5 +1,7 @@
 # ImageDownloaderZoomer
 
+Educational project of UNIT Factory (School 42).
+
 This app downloads four images via the Internet with the further possibility of zooming.
 
 ## Usage
