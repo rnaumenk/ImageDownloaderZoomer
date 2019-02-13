@@ -8,8 +8,8 @@
 
 import UIKit
 
-class CollectionViewCell: UICollectionViewCell {
+class MyCollectionViewCell: UICollectionViewCell {
     
     @IBOutlet weak var imageView: UIImageView!
-    @IBOutlet weak var spinner: UIActivityIndicatorView!
+    @IBOutlet weak var activityIndicator: UIActivityIndicatorView!
 }
